@@ -15,7 +15,7 @@ ipaddr = s.getsockname()[0]
 host = socket.gethostname()
 
 # Get text
-text - str(input("Input text:")
+text = str(input("Input text:")
 
 # Write to display
  try:
